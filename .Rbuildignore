@@ -3,5 +3,9 @@
 README.Rmd
 _pkgdown.yaml
 socviz.Rproj
+\.github$
+data-raw
 cran-comments.md
 ^temp$
+^.*\.Rproj$
+^\.Rproj\.user$
